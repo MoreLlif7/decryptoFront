@@ -1,0 +1,14 @@
+.error {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--black);
+    display: grid;
+    place-items: center;
+
+}
+
+h1 {
+    color: white;
+    font-family: "Roboto Mono";
+}
+
